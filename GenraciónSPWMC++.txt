@@ -1,3 +1,7 @@
+"Codigo realizado en grupo por
+Ramon Sarmiento
+Cristian Rugeles"
+
 #include <iostream>
 #include <fstream>
 # include <vector>
